@@ -1,0 +1,9 @@
+{
+  "name": "modules-src",
+  "version": "0.0.1",
+  "description": "Modules unit source code",
+  "dependencies": {
+    "request": "*",
+    "async": "*"
+  }
+}
